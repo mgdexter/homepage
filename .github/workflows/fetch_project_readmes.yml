@@ -15,7 +15,7 @@ jobs:
       - name: Checkout the repository
         uses: actions/checkout@v4
         with:
-          repository: mustafagenc/site
+          repository: mustafagenc/homepage
 
       - name: Fetch repository list and README's with metadata
         env:
@@ -88,7 +88,7 @@ jobs:
           # Commit if there are any changes
           if ! git diff --cached --quiet; then
             git commit -m "Update READMEs with meta and content from public repos"
-            git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/mustafagenc/site.git HEAD:main
+            git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/mustafagenc/homepage.git HEAD:main
           else
             echo "No changes to commit."
           fi

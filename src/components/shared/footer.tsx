@@ -17,10 +17,10 @@ export const Footer = () => {
           <Spotify />
           <div className="mt-1">
             <GitHubButton
-              href="https://github.com/mustafagenc/mustafagenc/fork"
+              href="https://github.com/mustafagenc/homepage/fork"
               data-color-scheme="no-preference: light; light: light; dark: dark;"
               data-show-count="true"
-              aria-label="Fork mustafagenc/mustafagenc on GitHub"
+              aria-label="Fork mustafagenc/homepage on GitHub"
             >
               Fork
             </GitHubButton>
