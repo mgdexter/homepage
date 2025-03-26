@@ -103,9 +103,9 @@ export const socialMediaLinks = [
 
 export const footerLinks = [
   {
-name:'Vercel',
-href:'https://vercel.com',
-icon:VercelLogoIcon,
+    name: 'Vercel',
+    href: 'https://vercel.com',
+    icon: VercelLogoIcon,
   },
   {
     name: 'RSS',

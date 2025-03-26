@@ -5,7 +5,7 @@ import { SubmitHandler, useForm } from 'react-hook-form';
 import { toast } from 'sonner';
 
 import { Loader } from '@/components/icons/loader';
-import { Button, buttonVariants } from '@/components/ui/button';
+import { Button } from '@/components/ui/button';
 import {
   Form,
   FormControl,
@@ -141,7 +141,7 @@ export const Contact = () => {
                 <Link
                   href="/privacy"
                   className="font-bold hover:text-foreground hover:underline hover:underline-offset-2 hover:transition"
-                  target='_blank'
+                  target="_blank"
                 >
                   {chunks}
                 </Link>
