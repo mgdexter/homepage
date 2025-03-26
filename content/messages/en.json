@@ -1,0 +1,93 @@
+{
+  "Shared": {
+    "loading": "Loading...",
+    "notPlaying": "Not Playing",
+    "name": "Name",
+    "enter-your-name": "Enter your name...",
+    "email": "E-mail",
+    "enter-your-email": "Enter your email...",
+    "message": "Message",
+    "enter-your-message": "Enter your message...",
+    "nameIsrRequired": "Name is required.",
+    "emailIsRequired": "Email is required.",
+    "emailIsInvalid": "Email is invalid.",
+    "messageIsRequired": "Message is required.",
+    "mustBeAtLeast2": "Must be at least 2 characters."
+  },
+  "Navbar": {
+    "home": "Home",
+    "blogs": "Blogs",
+    "projects": "Projects",
+    "work": "Work",
+    "contact": "Contact"
+  },
+  "NotFound": {
+    "title": "404",
+    "subtitle": "Page not found"
+  },
+  "Footer": {
+    "copyright": "\u00A9 {date} Mustafa Genç"
+  },
+  "Newsletter": {
+    "title": "Subscribe to my newsletter",
+    "subtitle": "Get recent projects \u0026 blog updates to your inbox.",
+    "email": "E-mail",
+    "button": "Subscribe",
+    "placeholder": "Enter your email...",
+    "privacy": "<PrivacyPolicy>Privacy policy</PrivacyPolicy>"
+  },
+  "Home": {
+    "Metadata": {
+      "title": "Mustafa Genç",
+      "description": "Explore my collection of GitHub projects, read my blog posts, and stay updated by subscribing to my newsletter for project and blog updates."
+    },
+    "hey": "Hey, I'm Mustafa",
+    "title": "Full-Stack Developer.",
+    "description": "I have been working in software development for over 20 years. I specialize in .NET and web technologies and have successfully contributed to <Work>various projects</Work> across different industries. Currently, I am working as a Senior Software Developer at <enkacard>ENKA İnşaat ve Sanayi A.Ş.</enkacard>, where I am responsible for the development of <egemcard>EGEM</egemcard>.<br></br>",
+    "social-media": "Social Media",
+    "egem": "EGEM is a comprehensive platform that digitizes the management of machinery and equipment parks in the construction sector. It aims to increase operational efficiency and occupational safety by gathering critical processes such as equipment tracking, maintenance planning, malfunction management, fuel consumption monitoring, cost analysis, and reporting under a single roof.",
+    "egem-date": "Joined Jun 2019",
+    "enka": "ENKA, established in 1957, is an international construction and industrial giant. It also operates in the fields of energy, real estate, and manufacturing. It has undertaken major projects in Turkey and worldwide.",
+    "enka-date": "Joined Mar 2019"
+  },
+  "Blogs": {
+    "Metadata": {
+      "title": "Blogs",
+      "description": "Explore my collection of blog posts, where I share my ideas on coding, DevOps, cloud and more, powered by Hashnode Headless CMS."
+    },
+    "title": "Blogs"
+  },
+  "Projects": {
+    "Metadata": {
+      "title": "Projects",
+      "description": "Collection of my selected public repositories fetched through GitHub Actions."
+    },
+    "title": "Projects"
+  },
+  "Work": {
+    "Metadata": {
+      "title": "Work",
+      "description": "Take a look at my professional journey, projects I’ve worked on, and my involvement with the community."
+    },
+    "title": "Work"
+  },
+  "Contact": {
+    "Metadata": {
+      "title": "Contact",
+      "description": "Let’s connect! Whether you want to discuss a project, collaborate, or just say hi, feel free to reach out."
+    },
+    "title": "Get in touch",
+    "description": "I'm open to freelance projects and collaborations. If you have a project, want to share ideas, or just feel like chatting, let's connect!<br></br>Feel free to reach out to me at <email></email> or through the contact form below.",
+    "contact-me": "Contact me",
+    "schedule-meeting": "Interested to chat on your ideas or work with me? Schedule a meeting using the button below.",
+    "book-a-meet": "Schedule a meeting",
+    "privacy": "By submitting this form, I agree to the <PrivacyPolicy>privacy policy</PrivacyPolicy>."
+  },
+  "Meet": {
+    "Metadata": {
+      "title": "Schedule a Meet",
+      "description": "Interested to chat on your ideas or work with me? Schedule a meeting using the form below."
+    },
+    "title": "Schedule a Meet"
+  }
+}

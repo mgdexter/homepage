@@ -1,0 +1,93 @@
+{
+  "Shared": {
+    "loading": "Yükleniyor...",
+    "notPlaying": "Oynatılmıyor",
+    "name": "Ad",
+    "enter-your-name": "Adınızı girin...",
+    "email": "E-posta",
+    "enter-your-email": "E-posta girin...",
+    "message": "Mesaj",
+    "enter-your-message": "Mesaj girin...",
+    "nameIsrRequired": "Ad gereklidir.",
+    "emailIsRequired": "E-posta gereklidir.",
+    "emailIsInvalid": "E-posta geçersiz.",
+    "messageIsRequired": "Mesaj gereklidir.",
+    "mustBeAtLeast2": "En az 2 karakter olmalıdır."
+  },
+  "Navbar": {
+    "home": "Anasayfa",
+    "blogs": "Blog",
+    "projects": "Projeler",
+    "work": "İş Deneyimi",
+    "contact": "İletişim"
+  },
+  "NotFound": {
+    "title": "404",
+    "subtitle": "Sayfa bulunamadı"
+  },
+  "Footer": {
+    "copyright": "\u00A9 {date} Mustafa Genç"
+  },
+  "Newsletter": {
+    "title": "Bültenime abone olun",
+    "subtitle": "En yeni projeleri ve blog güncellemelerini gelen kutunuza alın.",
+    "email": "E-posta",
+    "button": "Abone Ol",
+    "placeholder": "E-posta adresinizi girin...",
+    "privacy": "<PrivacyPolicy>Gizlilik politikası</PrivacyPolicy>"
+  },
+  "Home": {
+    "Metadata": {
+      "title": "Mustafa Genç",
+      "description": "GitHub projelerimi inceleyebilir, blog yazılarımı okuyabilir ve projelerim ile blog güncellemelerimden haberdar olmak için bültenime abone olabilirsiniz."
+    },
+    "hey": "Merhaba, Ben Mustafa",
+    "title": "Full-Stack Developer.",
+    "description": "20 yılı aşkın süredir yazılım geliştirme alanında çalışıyorum. .NET ve web teknolojilerinde uzmanım ve farklı sektörlerdeki <Work>çeşitli projelerde</Work> başarıyla görev aldım. Şu anda <enkacard>ENKA İnşaat ve Sanayi A.Ş.</enkacard> bünyesinde Kıdemli Yazılım Geliştirici olarak çalışıyor ve <egemcard>EGEM</egemcard> projesinin geliştirilmesinden sorumluyum.<br></br>",
+    "social-media": "Sosyal Medya",
+    "egem": "EGEM, inşaat sektöründe makine ve ekipman parklarının yönetimini dijitalleştiren kapsamlı bir platformdur. Ekipman takibi, bakım planlaması, arıza yönetimi, yakıt tüketimi izleme, maliyet analizi ve raporlama gibi kritik süreçleri tek bir çatı altında toplayarak operasyonel verimliliği ve iş güvenliğini artırmayı hedefler.",
+    "egem-date": "Haziran 2019'da dahil oldum",
+    "enka": "ENKA, 1957'de kurulan, uluslararası inşaat ve sanayi devidir. Enerji, gayrimenkul ve üretim alanlarında da faaliyet gösterir. Türkiye ve dünyada büyük projelere imza atmıştır.",
+    "enka-date": "Mart 2019'da dahil oldum"
+  },
+  "Blogs": {
+    "Metadata": {
+      "title": "Blog",
+      "description": "Kodlama, DevOps, bulut ve daha fazlası hakkında fikirlerimi paylaştığım blog yazılarımı keşfedin. İçeriklerim Hashnode Headless CMS ile sunulmaktadır."
+    },
+    "title": "Blog"
+  },
+  "Projects": {
+    "Metadata": {
+      "title": "Projelerim",
+      "description": "GitHub Actions aracılığıyla alınan seçili herkese açık repolarımın koleksiyonum."
+    },
+    "title": "Projelerim"
+  },
+  "Work": {
+    "Metadata": {
+      "title": "İş Deneyimi",
+      "description": "Profesyonel yolculuğuma, üzerinde çalıştığım projelere ve topluluk içindeki faaliyetlerime göz atın."
+    },
+    "title": "İş Deneyimi"
+  },
+  "Contact": {
+    "Metadata": {
+      "title": "İletişim",
+      "description": " Bir projeyi tartışmak, iş birliği yapmak veya sadece merhaba demek isterseniz, benimle dilediğiniz zaman iletişime geçebilirsiniz."
+    },
+    "title": "Bana ulaşın",
+    "description": "Freelance projelere ve iş birliklerine açığım. Eğer bir projeniz varsa, fikirlerinizi paylaşmak istiyorsanız veya sadece sohbet etmek isterseniz, bağlantı kuralım<br></br>Bana <email></email> adresinden veya aşağıdaki iletişim formu aracılığıyla dilediğiniz zaman ulaşabilirsiniz.",
+    "contact-me": "Gönder",
+    "schedule-meeting": "Fikirlerinizi paylaşmak veya benimle çalışmak ister misiniz? Aşağıdaki butonu kullanarak bir toplantı planlayabilirsiniz.",
+    "book-a-meet": "Toplantı planlayın",
+    "privacy": "Bu formu göndererek <PrivacyPolicy>gizlilik politikasını</PrivacyPolicy> kabul ettiğimi beyan ediyorum."
+  },
+  "meet": {
+    "Metadata": {
+      "title": "Toplantı Planla",
+      "description": "Fikirlerinizi paylaşmak veya benimle çalışmak ister misiniz? Aşağıdaki formu doldurarak bir toplantı planlayabilirsiniz."
+    },
+    "title": "Toplantı Planla"
+  }
+}
