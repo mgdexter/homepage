@@ -1,4 +1,4 @@
-# Mustafa Genç
+# Nuri
 
 Bu web sitesi Next.js üzerine kurulmuştur.
 
